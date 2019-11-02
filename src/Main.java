@@ -1,6 +1,5 @@
 package Main;
-// Roman Gehtberg. 	ID# 324306935
-// Yacov Mateo 	ID# 204238687
+// Roman Gehtberg.
 
 public class Main {
 	public static void main(String[] args){
