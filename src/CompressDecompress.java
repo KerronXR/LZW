@@ -1,6 +1,4 @@
 package Main;
-//Roman Gehtberg. 	ID# 324306935
-//Yacov Mateo 	ID# 204238687
 import java.awt.Color;
 import java.io.*;
 import java.util.*;
